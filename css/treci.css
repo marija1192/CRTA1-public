@@ -1,0 +1,30 @@
+
+.chart .legend {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: start;
+  font-size: 12px;
+}
+
+.bilosta {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+ .labela {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+rect.bar1:hover {
+  fill: #ba141a!important;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}

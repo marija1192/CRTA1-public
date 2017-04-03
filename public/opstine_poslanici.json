@@ -1,0 +1,237 @@
+[
+  {
+    "opstina": "Kragujevac",
+    "poslanici": [
+      {
+        "ime": "Allie",
+        "prezime": "Fowler",
+        "prihodi": 167694
+      },
+      {
+        "ime": "Viola",
+        "prezime": "Wilcox",
+        "prihodi": 71287
+      },
+      {
+        "ime": "Adkins",
+        "prezime": "Guthrie",
+        "prihodi": 123254
+      },
+      {
+        "ime": "Hodge",
+        "prezime": "Estes",
+        "prihodi": 108937
+      },
+      {
+        "ime": "Baxter",
+        "prezime": "Russo",
+        "prihodi": 100005
+      }
+    ]
+  },
+  {
+    "opstina": "Kraljevo",
+    "poslanici": [
+      {
+        "ime": "Alicia",
+        "prezime": "Williamson",
+        "prihodi": 193441
+      },
+      {
+        "ime": "Abby",
+        "prezime": "Owen",
+        "prihodi": 81955
+      },
+      {
+        "ime": "Stuart",
+        "prezime": "Walsh",
+        "prihodi": 170502
+      },
+      {
+        "ime": "Alexandra",
+        "prezime": "Humphrey",
+        "prihodi": 125581
+      },
+      {
+        "ime": "Whitney",
+        "prezime": "Herrera",
+        "prihodi": 187151
+      },
+      {
+        "ime": "Gaines",
+        "prezime": "Deleon",
+        "prihodi": 71458
+      }
+    ]
+  },
+  {
+    "opstina": "Beograd",
+    "poslanici": [
+      {
+        "ime": "Harrington",
+        "prezime": "Marsh",
+        "prihodi": 133319
+      },
+      {
+        "ime": "Carroll",
+        "prezime": "Mooney",
+        "prihodi": 117496
+      },
+      {
+        "ime": "Janna",
+        "prezime": "Becker",
+        "prihodi": 74561
+      },
+      {
+        "ime": "Duke",
+        "prezime": "Ryan",
+        "prihodi": 195863
+      },
+      {
+        "ime": "Louisa",
+        "prezime": "Kirk",
+        "prihodi": 145725
+      },
+      {
+        "ime": "Mable",
+        "prezime": "Flynn",
+        "prihodi": 79924
+      },
+      {
+        "ime": "Elnora",
+        "prezime": "Silva",
+        "prihodi": 98339
+      },
+      {
+        "ime": "Jodi",
+        "prezime": "Madden",
+        "prihodi": 166153
+      },
+      {
+        "ime": "Delaney",
+        "prezime": "Powell",
+        "prihodi": 167591
+      },
+      {
+        "ime": "Gabriela",
+        "prezime": "Hampton",
+        "prihodi": 195314
+      },
+      {
+        "ime": "Douglas",
+        "prezime": "Yang",
+        "prihodi": 149646
+      }
+    ]
+  },
+  {
+    "opstina": "Jagodina",
+    "poslanici": [
+      {
+        "ime": "Bryan",
+        "prezime": "Justice",
+        "prihodi": 139432
+      },
+      {
+        "ime": "Cain",
+        "prezime": "Schneider",
+        "prihodi": 103311
+      },
+      {
+        "ime": "Barbra",
+        "prezime": "Yang",
+        "prihodi": 144169
+      },
+      {
+        "ime": "Cooper",
+        "prezime": "Gallegos",
+        "prihodi": 151751
+      },
+      {
+        "ime": "Angelita",
+        "prezime": "Whitehead",
+        "prihodi": 173972
+      },
+      {
+        "ime": "Howell",
+        "prezime": "Noble",
+        "prihodi": 95186
+      },
+      {
+        "ime": "Bethany",
+        "prezime": "Garza",
+        "prihodi": 166111
+      }
+    ]
+  },
+  {
+    "opstina": "Cacak",
+    "poslanici": [
+      {
+        "ime": "Camille",
+        "prezime": "Cantrell",
+        "prihodi": 100819
+      },
+      {
+        "ime": "Tammy",
+        "prezime": "Hensley",
+        "prihodi": 199735
+      },
+      {
+        "ime": "Marci",
+        "prezime": "Simpson",
+        "prihodi": 138324
+      },
+      {
+        "ime": "Mosley",
+        "prezime": "Nunez",
+        "prihodi": 75283
+      },
+      {
+        "ime": "Flowers",
+        "prezime": "Mejia",
+        "prihodi": 139116
+      },
+      {
+        "ime": "Clemons",
+        "prezime": "Schroeder",
+        "prihodi": 113862
+      },
+      {
+        "ime": "Concepcion",
+        "prezime": "Guzman",
+        "prihodi": 155535
+      },
+      {
+        "ime": "Lang",
+        "prezime": "Dale",
+        "prihodi": 171819
+      },
+      {
+        "ime": "Millie",
+        "prezime": "Bell",
+        "prihodi": 137946
+      },
+      {
+        "ime": "Meadows",
+        "prezime": "Richards",
+        "prihodi": 81520
+      },
+      {
+        "ime": "Warner",
+        "prezime": "Barnett",
+        "prihodi": 188010
+      },
+      {
+        "ime": "Cathleen",
+        "prezime": "Russo",
+        "prihodi": 154160
+      },
+      {
+        "ime": "Jacquelyn",
+        "prezime": "Carr",
+        "prihodi": 123849
+      }
+    ]
+  }
+]

@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CRTA</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/prvi.css">
+    <link rel="stylesheet" href="css/sesti.css">
+
+    <link rel="stylesheet" href="css/treci.css">
+    <link rel="stylesheet" href="css/pojedinacni.css">
+    <link rel="stylesheet" href="css/peti.css">
+
+
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <script src="d3.v3.min.js"></script>
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <script type="text/javascript" src="js/jquery-2.1.4.js"> </script>
+
+     
+
+
+
+
+    
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#">Početna</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Statistika</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">О projektu</a>
+                    </li>
+                    
+                    <li>
+                        <a class="page-scroll" href="#contact">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                
+                <div class="intro-heading">Imovina narodnih poslanika</div>
+                <a href="#about" class="page-scroll btn btn-xl">Saznajte više</a>
+            </div>
+        </div>
+    </header>
+
+    
+    
+
+    <!-- Statistika Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Statistika</h2>
+                    <h3 class="section-subheading text-muted">Uporedite kategorije.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/prva.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Prihodi poslanika po poslaničkom klubu</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/druga.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Prihodi poslanika i poslanica - poređenje</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/treca.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Pojedinačni prihodi poslanika</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/cetvrta.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Prihodi poslanika po opštinama/gradovima</h4>
+
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/peta.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Površina stambenih jedinica</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/sesta.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Struktura poslanika u skupštini</h4>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- O projektu Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">O projektu </h2>
+                    </br></br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/slicica2.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4></h4>
+                                    <h4 class="subheading">Opis projekta</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Sajt je nastao u okviru projekta Open Data Academy 2015. Open Data Projekat nastao je kao rezultat mnogobrojnih promena i razvoja na polju otvorene vlade, uzimajući u obzir potrebe civilnog društva. Rezultati rada na Open Data Academy treba da učine dostupnim napredne alate za upravljanjem podacima, svim građanima, novinarima, istraživačima  i zainteresovanoj javnosti.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/slicica3.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4></h4>
+                                    <h4 class="subheading">Cilj projekta</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Cilj projekta je mapiranje podataka koji su dostupni na sajtovima vladinih i nevladinih institucija, unapređenje veština upravljanja podacima kao i izrada novih, naprednih alata za njihovo korišćenje. </p>
+                                </div>
+                            </div>
+                        </li>
+                         <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/slicica1.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4></h4>
+                                    <h4 class="subheading">Saradnja</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Projekat je sproveden od strane ACTION SEE Mreže, koju čine UG Zašto Ne (Bosna i Hercegovina), Centar za istraživanje, transparentnost i odgovornost CRTA (Srbija), Metamorfozis  (Makedonija) i Centar za demokratsku tranziciju (Crna Gora).</p>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Budite 
+                                    <br>deo
+                                    <br>naše priče!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    
+
+    <!-- Podrška -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">               
+                
+                <div class="col-md-4 col-sm-6">
+                    <a href="http://www.otvoreniparlament.rs/">
+                        <img src="img/logos/o.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <a href="http://actionsee.org/">
+                        <img src="img/logos/a.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
+    
+    <!-- Kontakt Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Kontaktirajte nas</h2>
+                    </br></br></br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Vaše ime *" id="name" required data-validation-required-message="Unesite vaše ime.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="Vaš email *" id="email" required data-validation-required-message="Unesite vašu email adresu.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" placeholder="Vaš telefon *" id="phone" required data-validation-required-message="Unesite vaš broj telefona.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <textarea class="form-control" placeholder="Vaša poruka *" id="message" required data-validation-required-message="Unesite vašu poruku."></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">Pošaljite poruku</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; Otvoreni parlament.rs</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="https://twitter.com/O_Parlament"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/OtvoreniParlament?fref=ts"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li>All rights reserved.
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+
+    <!-- Pojedinačni prihodi poslanika -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                           
+
+                           <!-- Project Details Go Here -->
+                            <h2>Prihodi poslanika po poslaničkom klubu </h2>
+                
+                            <div id="prviDijagram"></div>
+                            <form>
+                            <h3>Poslanici</h3>
+                            <select name= "drop_down" id="DropDownSazivi">
+                            </select>
+                            
+                            </form>
+                            <br>
+
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prihodi poslanika i poslanica - poređenje -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Prihodi poslanika i poslanica - poređenje</h2>
+
+
+                            
+                            <svg class="chart"></svg>
+                            
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prihodi poslanika po poslaničkom klubu -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container1">
+                <div class="row">
+                    <div class=".col-md-8">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Pojedinačni prihodi poslanika</h2>
+                            
+                            <div id="pojedinacniDijagram"></div>
+
+                            <form id ="formposl">
+                            <h3>Poslanici</h3>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br><br>
+                            <select name= "drop_down" class="DropDownSazivi">
+                            </select>
+                            <br>
+                            <button id="dugmic1" type="button" class="btn btn-primary">Izaberi</button>
+
+                            </form>
+                            <br>
+
+                            <button id="dugmic" type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prihodi poslanika po opštinama/gradovima -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Prihodi poslanika po opštinama/gradovima</h2>
+
+                            <div id="opstine"> </div>
+                           
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    <div id="sadrzaj-modala">
+                     
+
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Nepokretna imovina poslanika - poređenje -->
+
+    <!-- Površina stambenih jedinica -->
+
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Površina stambenih jedinica</h2>
+
+                            <div id="petiDijagram"></div>
+                            
+                           
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Broj plata poslanika -->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Struktura poslanika u skupštini</h2>
+                            
+                            <div id="sestiDijagram"></div>
+
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+    
+    <script src="js/prvi.js"></script>  
+
+    <script src="js/sesti.js"></script>
+    <script src="js/mapa.js"></script>
+
+    <script src="js/treci.js"></script>
+    <script src="js/pojedinacni.js"></script>
+    <script src="js/sesti.js"></script> 
+    <script src="js/peti.js"></script> 
+
+
+
+    <script>
+        $(function () {
+            $(".portfolio-link").click(function (e) {
+                var nazivModala = e.currentTarget.hash;
+
+                ucitajGraf(nazivModala);
+
+            })
+
+           function ucitajGraf (naziv) {
+               if (naziv = "portfolioModal1")  prviGraf();
+           }
+        });
+
+
+    </script>
+
+    <script>
+        $(function () {
+                    $(".portfolio-link").click(function (e) {
+                        var nazivModala = e.currentTarget.hash;
+
+                        ucitajGraf(nazivModala);
+
+                    })
+
+                   function ucitajGraf (naziv) {
+                       if (naziv = "portfolioModal5")  petiGraf();
+                   }
+                });
+    </script>
+
+    <script>
+        $(function () {
+            $(".portfolio-link").click(function (e) {
+                var nazivModala = e.currentTarget.hash;
+
+                ucitajGraf(nazivModala);
+
+            })
+
+           function ucitajGraf (naziv) {
+               if (naziv = "portfolioModal6")  sestiGraf();
+           }
+        })
+
+    </script>
+
+    <script>
+        $(function () {
+            $(".portfolio-link").click(function (e) {
+                var nazivModala = e.currentTarget.hash;
+
+                ucitajGraf(nazivModala);
+
+            })
+
+           function ucitajGraf (naziv) {
+               if (naziv = "portfolioModal4") {
+                cetvrtiGraf();
+
+           }
+       }
+        })
+
+    </script>
+
+    <script>
+        $(function () {
+            $(".portfolio-link").click(function (e) {
+                var nazivModala = e.currentTarget.hash;
+
+                ucitajGraf(nazivModala);
+
+            })
+
+           function ucitajGraf (naziv) {
+               if (naziv = "portfolioModal3")  treciGraf();
+           }
+        })
+
+    </script>
+
+    <script>
+        $(function () {
+            $(".portfolio-link").click(function (e) {
+                var nazivModala = e.currentTarget.hash;
+
+                ucitajGraf(nazivModala);
+
+            })
+
+           function ucitajGraf (naziv) {
+               if (naziv = "portfolioModal3")  pojedinacniGraf();
+           }
+        })
+
+        $(document).ready(function()
+        {
+            $.getJSON("novi1.json", function(obj){
+
+                for (var i = 0; i < obj.Sazivi.length; i++) {
+                    var poslanici = obj.Sazivi[i].poslanici;
+
+                     /*for (var i=0; i<obj.Sazivi.length; i++) {*/
+
+                        $.each(poslanici, function (key, value) {
+                        $(".DropDownSazivi").append($('<option></option>').val(value.ime).html(value.ime));
+                        });
+
+                        /*$('.DropDownSazivi').change(function () {
+                        alert($(this).val());
+                        });*/
+                    /*}*/
+                };
+
+            });
+        });
+
+    </script>
+
+
+
+</body>
+
+</html>

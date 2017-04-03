@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!--<meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <style>
+    /* g#Sombor > polygon{ fill:red;} */
+    </style> -->
+</head>
+
+<body>
+    
+    <!-- Button trigger modal -->
+<!--     <a href="#myModal" class="btn btn-primary btn-lg" data-toggle="modal" >
+      		Launch demo modal
+    	</a>
+     -->    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    <div id="sadrzaj-modala">
+                     
+
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="opstine"> </div>
+    <script>
+    $("#opstine").load("opstine.svg");
+
+    var boje = ["#ffffcc", "#c2e699", "#78c679", "#31a354", "#006837"];
+
+    //["#feebe2", "#fbb4b9", "#f768a1", "#c51b8a", "#7a0177"];//d3.scale.category20c().domain([1,30]);
+    //d3.scale.linear().domain([1,30]).range(['red', 'blue']);//, 'blue'
+    var index = 0;
+
+
+    setTimeout(
+        function() {
+            $("#opstine g>g").parent().each(function() {
+                if (["PRIZREN", "PECKI", "KOSOVSKO_POMORAVSKI", "KOSOVSKI", "KOSOVSKA_MITROVICA"].indexOf(this.id) != -1) return; // kosovo
+                //console.log(this.id);
+                $("#" + this.id).click(function() {
+       		      prikaziModal(this.id);
+       		      /* 	$("#sadrzaj-modala").html( this.id );
+       		       	$('#myModal').modal();*/
+       		             
+                })
+                $("#" + this.id + " g polygon," + "#" + this.id + " g path").each(function() {
+                    $(this).attr("fill", boje[Math.floor(Math.random() * 5)]);
+                })
+            }); // okruzi
+
+            //$("svg").find("#PRIZREN g ").click(function(){alert(this.id)})
+            //$("svg").find("#PRIZREN g polygon").attr("fill","yellow")
+
+        }, 1000)
+    </script>
+    
+    <script>
+    function prikaziModal(opstina) {
+
+    	var unos = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, ex, rerum, beatae, libero explicabo saepe '
+    	+ 'numquam aliquid labore consequuntur laboriosam consequatur voluptatibus consectetur eos earum sit distinctio pariatur'
+    	+ '<br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, laboriosam, obcaecati consectetur molestiae id '
+    	+ 'nisi tempora laudantium voluptatum maxime sit architecto quo possimus iste excepturi impedit eaque odit facere enim.'
+    	+ opstina
+        + '<br><br><br><b>Lorem ipsum dolor sit amet</b>, consectetur adipisicing elit.'
+        + '<p>Exercitationem, blanditiis perspiciatis eos libero ratione accusamus <a href="#">aliquam quidem voluptatem</a> '
+        + 'tempore cum </p>molestias laudantium voluptatibus sint quasi minus excepturi dignissimos maxime esse.'
+        + '<img src="http://lorempixel.com/300/300/sports/1/" alt="">	';
+
+                     $("#sadrzaj-modala").html( unos );
+       		       	$('#myModal').modal();
+    }
+    </script>
+</body>
+
+</html>

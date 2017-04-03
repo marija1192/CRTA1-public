@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "poslanickiKlub": "sns",
+    "prihodi": 4132.6686,
+    "vreme": "06/07/2014"
+  },
+  {
+    "index": 1,
+    "poslanickiKlub": "dss",
+    "prihodi": 4968.06,
+    "vreme": "21/02/2012"
+  },
+  {
+    "index": 2,
+    "poslanickiKlub": "dss",
+    "prihodi": 2026.5511,
+    "vreme": "07/04/2014"
+  },
+  {
+    "index": 3,
+    "poslanickiKlub": "dss",
+    "prihodi": 4324.9779,
+    "vreme": "31/08/2010"
+  },
+  {
+    "index": 4,
+    "poslanickiKlub": "sns",
+    "prihodi": 9087.6488,
+    "vreme": "20/04/2015"
+  },
+  {
+    "index": 5,
+    "poslanickiKlub": "dss",
+    "prihodi": 3714.8382,
+    "vreme": "22/04/2014"
+  },
+  {
+    "index": 6,
+    "poslanickiKlub": "ds",
+    "prihodi": 5212.4484,
+    "vreme": "29/04/2013"
+  },
+  {
+    "index": 7,
+    "poslanickiKlub": "sns",
+    "prihodi": 2236.05,
+    "vreme": "07/01/2012"
+  },
+  {
+    "index": 8,
+    "poslanickiKlub": "dss",
+    "prihodi": 4068.7607,
+    "vreme": "28/04/2014"
+  },
+  {
+    "index": 9,
+    "poslanickiKlub": "ds",
+    "prihodi": 8493.7703,
+    "vreme": "20/08/2013"
+  }
+]

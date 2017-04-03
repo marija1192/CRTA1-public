@@ -1,0 +1,67 @@
+[
+  {
+    "stranka": "urs",
+    "brojPol": [
+      {
+        "pol": "z",
+        "broj": 14
+      },
+      {
+        "pol": "m",
+        "broj": 7
+      }
+    ]
+  },
+  {
+    "stranka": "sdp",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 27
+      },
+      {
+        "pol": "m",
+        "broj": 15
+      }
+    ]
+  },
+  {
+    "stranka": "ns",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 17
+      },
+      {
+        "pol": "z",
+        "broj": 25
+      }
+    ]
+  },
+  {
+    "stranka": "ldp",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 25
+      },
+      {
+        "pol": "z",
+        "broj": 9
+      }
+    ]
+  },
+  {
+    "stranka": "sps",
+    "brojPol": [
+      {
+        "pol": "z",
+        "broj": 16
+      },
+      {
+        "pol": "z",
+        "broj": 28
+      }
+    ]
+  }
+]

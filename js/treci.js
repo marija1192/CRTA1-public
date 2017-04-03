@@ -1,0 +1,178 @@
+function treciGraf(){
+
+var data = 
+  [
+  {
+    "stranka": "urs",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 14
+      },
+      {
+        "pol": "z",
+        "broj": 7
+      }
+    ]
+  },
+  {
+    "stranka": "sdp",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 27
+      },
+      {
+        "pol": "z",
+        "broj": 15
+      }
+    ]
+  },
+  {
+    "stranka": "ns",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 17
+      },
+      {
+        "pol": "z",
+        "broj": 25
+      }
+    ]
+  },
+  {
+    "stranka": "ldp",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 25
+      },
+      {
+        "pol": "z",
+        "broj": 9
+      }
+    ]
+  },
+  {
+    "stranka": "sps",
+    "brojPol": [
+      {
+        "pol": "m",
+        "broj": 16
+      },
+      {
+        "pol": "z",
+        "broj": 28
+      }
+    ]
+  }
+];
+
+var chartWidth       = 500,
+    barHeight        = 40,
+    groupHeight      = barHeight * data/*.brojPol*/.length,
+    gapBetweenGroups = 10,
+    spaceForstranka   = 150,
+    spaceForLegend   = 150;
+
+// Zip the brojPol data together (first values, second values, etc.)
+var zippedData = [];
+for (var i=0; i< data/*.stranka*/.length; i++) {
+  for (var j=0; j<data[i].brojPol.length; j++) {
+    zippedData.push(data[i].brojPol[j].broj/*values[i]*/);
+  }
+}
+
+// Color scale
+var color = d3.scale.category20();
+var chartHeight = barHeight * zippedData.length + gapBetweenGroups * data/*.stranka*/.length;
+
+var x = d3.scale.linear()
+    .domain([0, d3.max(zippedData)])
+    .range([0, chartWidth]);
+
+var y = d3.scale.linear()
+    .range([chartHeight + gapBetweenGroups, 0]);
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .tickFormat('')
+    .tickSize(0)
+    .orient("left");
+
+// Specify the chart area and dimensions
+var chart = d3.select(".chart")
+    .attr("width", spaceForstranka + chartWidth + spaceForLegend)
+    .attr("height", chartHeight);
+
+// Create bars
+var bar1 = chart.selectAll("g")
+    .data(zippedData)
+    .enter().append("g")
+    .attr("transform", function(d, i) {
+      return "translate(" + spaceForstranka + "," + (i * barHeight + gapBetweenGroups * (0.5 + Math.floor(i/2))) + ")";
+    });
+
+// Create rectangles of the correct width
+bar1.append("rect")
+    .attr("fill", function(d,i) { return color(i % 2); })
+    .attr("class", "bar1")
+    .attr("width", x)
+    .attr("height", barHeight - 1);
+
+// Add text label in bar
+bar1.append("text")
+    .attr("class", "bilosta")
+    .attr("x", function(d) { return x(d) - 3; })
+    .attr("y", barHeight / 2)
+    .attr("fill", "red")
+    .attr("dy", ".35em")
+    .text(function(d) { return d; });
+
+// Draw stranka
+bar1.append("text")
+    .attr("class", "labela")
+    .attr("x", function(d) { return - 10; })
+    .attr("y", groupHeight / 2)
+    .attr("dy", "-3em")
+    .text(function(d,i) {
+      if (i % 2 === 0)
+        return data[Math.floor(i/2)].stranka;
+      else  
+        return ""});
+
+chart.append("g")
+      .attr("class", "y axis")
+      .attr("transform", "translate(" + spaceForstranka + ", " + -gapBetweenGroups/2 + ")")
+      .call(yAxis);
+
+// Draw legend
+var legendRectSize = 18,
+    legendSpacing  = 4;
+
+var legend = chart.selectAll('.legend')
+    .data(['m','z'])
+    .enter()
+    .append('g')
+    .attr('transform', function (d, i) {
+        var height = legendRectSize + legendSpacing;
+        var offset = -gapBetweenGroups/2;
+        var horz = spaceForstranka + chartWidth + 40 - legendRectSize;
+        var vert = i * height - offset;
+        return 'translate(' + horz + ',' + vert + ')';
+    });
+
+legend.append('rect')
+    .attr('width', legendRectSize)
+    .attr('height', legendRectSize)
+    .style('fill', function (d, i) { return color(i); })
+    .style('stroke', function (d, i) { return color(i); });
+
+legend.append('text')
+.data(["musko","zensko"])
+    .attr('class', 'legend')
+    .attr('x', legendRectSize + legendSpacing)
+    .attr('y', legendRectSize - legendSpacing)
+    .text(function (d) { return d; });
+}

@@ -1,0 +1,1081 @@
+{ "Sazivi" :[
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Srpska napredna stranka",
+    "poslanici": [
+      {
+        "ime": "Adriana Anastasov",
+        "url": "http://www.otvoreniparlament.rs/politicari/adriana-anastasov/"
+      },
+      {
+        "ime": "Aleksandar Jovičić",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-jovicic/"
+      },
+      {
+        "ime": "Aleksandar Marković",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-markovic/"
+      },
+      {
+        "ime": "Aleksandar Martinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-martinovic/"
+      },
+      {
+        "ime": "Aleksandar Pajović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-pajovic/"
+      },
+      {
+        "ime": "Aleksandar Peranović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-peranovic/"
+      },
+      {
+        "ime": "Aleksandar Radojević",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-radojevic/"
+      },
+      {
+        "ime": "Aleksandra Maletić",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandra-maletic/"
+      },
+      {
+        "ime": "Aleksandra Tomić",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandra-tomic/"
+      },
+      {
+        "ime": "Aleksandra Đurović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandra-durovic/"
+      },
+      {
+        "ime": "Ana Filipović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ana-filipovic/"
+      },
+      {
+        "ime": "Biljana Ilić Stošić",
+        "url": "http://www.otvoreniparlament.rs/politicari/biljana-ilic-stosic/"
+      },
+      {
+        "ime": "Biljana Pantić Pilja",
+        "url": "http://www.otvoreniparlament.rs/politicari/biljana-pantic/"
+      },
+      {
+        "ime": "Biljana Savović",
+        "url": "http://www.otvoreniparlament.rs/politicari/biljana-savovic/"
+      },
+      {
+        "ime": "Boban Birmančević",
+        "url": "http://www.otvoreniparlament.rs/politicari/boban-birmancevic/"
+      },
+      {
+        "ime": "Branimir Rančić",
+        "url": "http://www.otvoreniparlament.rs/politicari/branimir-rancic-2/"
+      },
+      {
+        "ime": "Branislav Blažić",
+        "url": "http://www.otvoreniparlament.rs/politicari/branislav-blazic/"
+      },
+      {
+        "ime": "Branka Janković",
+        "url": "http://www.otvoreniparlament.rs/politicari/branka-jankovic/"
+      },
+      {
+        "ime": "Bratimir Vasiljević",
+        "url": "http://www.otvoreniparlament.rs/politicari/bratimir-vasiljevic/"
+      },
+      {
+        "ime": "Dalibor Radičević",
+        "url": "http://www.otvoreniparlament.rs/politicari/dalibor-radicevic/"
+      },
+      {
+        "ime": "Darko Laketić",
+        "url": "http://www.otvoreniparlament.rs/politicari/535483/"
+      },
+      {
+        "ime": "Dejan Kovačević",
+        "url": "http://www.otvoreniparlament.rs/politicari/dejan-kovacevic/"
+      },
+      {
+        "ime": "Dejan Nektarijević",
+        "url": "http://www.otvoreniparlament.rs/politicari/dejan-nektarijevic/"
+      },
+      {
+        "ime": "Dragan Aleksić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-aleksic/"
+      },
+      {
+        "ime": "Dragan Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-nikolic/"
+      },
+      {
+        "ime": "Dragan Paunović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-paunovic/"
+      },
+      {
+        "ime": "Dragan Polovina",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-polovina/"
+      },
+      {
+        "ime": "Dragan Šormaz",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-sormaz/"
+      },
+      {
+        "ime": "Dragan Todorović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-todorovic-2/"
+      },
+      {
+        "ime": "Dragana Barišić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragana-barisic/"
+      },
+      {
+        "ime": "Dragoljub Zindović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragoljub-zindovic/"
+      },
+      {
+        "ime": "Dragomir Karić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragomir-j-karic/"
+      },
+      {
+        "ime": "Dušan Janković",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusan-jankovic-2/"
+      },
+      {
+        "ime": "Dušan Stupar",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusan-stupar/"
+      },
+      {
+        "ime": "Dušica Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusica-nikolic/"
+      },
+      {
+        "ime": "Dušica Stojković",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusica-stojkovic/"
+      },
+      {
+        "ime": "Goran Kovačević",
+        "url": "http://www.otvoreniparlament.rs/politicari/goran-kovacevic/"
+      },
+      {
+        "ime": "Goran Mladenović",
+        "url": "http://www.otvoreniparlament.rs/politicari/goran-mladenovic/"
+      },
+      {
+        "ime": "Goran Vukadinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/goran-vukadinovic/"
+      },
+      {
+        "ime": "Gordana Zorić",
+        "url": "http://www.otvoreniparlament.rs/politicari/gordana-zoric/"
+      },
+      {
+        "ime": "Gorjana Marinković",
+        "url": "http://www.otvoreniparlament.rs/politicari/gorjana-marinkovic/"
+      },
+      {
+        "ime": "Igor Bečić",
+        "url": "http://www.otvoreniparlament.rs/politicari/igor-becic/"
+      },
+      {
+        "ime": "Irena Aleksić",
+        "url": "http://www.otvoreniparlament.rs/politicari/irena-aleksic/"
+      },
+      {
+        "ime": "Ivana Stojiljković",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivana-stojiljkovic/"
+      },
+      {
+        "ime": "Ivica Jevtić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivica-jevtic/"
+      },
+      {
+        "ime": "Jasmina Obradović",
+        "url": "http://www.otvoreniparlament.rs/politicari/jasmina-obradovic/"
+      },
+      {
+        "ime": "Jelena Mijatović",
+        "url": "http://www.otvoreniparlament.rs/politicari/jelena-mijatovic/"
+      },
+      {
+        "ime": "Jelisaveta Pribojac",
+        "url": "http://www.otvoreniparlament.rs/politicari/jelisaveta-pribojac/"
+      },
+      {
+        "ime": "Jezdimir Vučetić",
+        "url": "http://www.otvoreniparlament.rs/politicari/jezdimir-vucetic/"
+      },
+      {
+        "ime": "Jovica Jevtić",
+        "url": "http://www.otvoreniparlament.rs/politicari/jovica-jevtic/"
+      },
+      {
+        "ime": "Katarina Rakić",
+        "url": "http://www.otvoreniparlament.rs/politicari/katarina-rakic/"
+      },
+      {
+        "ime": "Katarina Šušnjar",
+        "url": "http://www.otvoreniparlament.rs/politicari/katarina-susnjar/"
+      },
+      {
+        "ime": "Krstimir Pantić",
+        "url": "http://www.otvoreniparlament.rs/politicari/krstimir-pantic/"
+      },
+      {
+        "ime": "Ljibuška Lakatoš",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljibuska-lakatos/"
+      },
+      {
+        "ime": "Ljiljana Beronja",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljiljana-beronja/"
+      },
+      {
+        "ime": "Ljiljana Malušić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljiljana-malusic/"
+      },
+      {
+        "ime": "Ljubica Mrdaković Todorović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljubica-mrdakovic-todorovic/"
+      },
+      {
+        "ime": "Ljubiša Stojmirović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljubisa-stojimirovic/"
+      },
+      {
+        "ime": "Maja Gojković",
+        "url": "http://www.otvoreniparlament.rs/politicari/maja-gojkovic/"
+      },
+      {
+        "ime": "Marija Obradović",
+        "url": "http://www.otvoreniparlament.rs/politicari/marija-obradovic/"
+      },
+      {
+        "ime": "Marijan Rističević",
+        "url": "http://www.otvoreniparlament.rs/politicari/marijan-risticevic/"
+      },
+      {
+        "ime": "Marko Atlagić",
+        "url": "http://www.otvoreniparlament.rs/politicari/marko-atlagic/"
+      },
+      {
+        "ime": "Milan Knežević",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-knezevic/"
+      },
+      {
+        "ime": "Milan Kovačević",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-kovacevic/"
+      },
+      {
+        "ime": "Milan Novaković",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-novakovic/"
+      },
+      {
+        "ime": "Milan Stevanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-stevanovic/"
+      },
+      {
+        "ime": "Milan Đurica",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-durica/"
+      },
+      {
+        "ime": "Milanka Jevtović Vukojičić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milanka-jevtovic-vukojicic/"
+      },
+      {
+        "ime": "Milanka Karić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milanka-karic/"
+      },
+      {
+        "ime": "Milena Turk",
+        "url": "http://www.otvoreniparlament.rs/politicari/milena-turk/"
+      },
+      {
+        "ime": "Mileta Poskurica",
+        "url": "http://www.otvoreniparlament.rs/politicari/mileta-poskurica/"
+      },
+      {
+        "ime": "Milija Miletić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milija-miletic/"
+      },
+      {
+        "ime": "Milinko Živković",
+        "url": "http://www.otvoreniparlament.rs/politicari/milinko-zivkovic/"
+      },
+      {
+        "ime": "Miljana Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/miljana-nikolic/"
+      },
+      {
+        "ime": "Milorad Cvetanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/milorad-cvetanovic/"
+      },
+      {
+        "ime": "Miloš Tošanić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milos-tosanic/"
+      },
+      {
+        "ime": "Milosav Milojević",
+        "url": "http://www.otvoreniparlament.rs/politicari/milosav-milojevic/"
+      },
+      {
+        "ime": "Milovan Drecun",
+        "url": "http://www.otvoreniparlament.rs/politicari/milovan-drecun/"
+      },
+      {
+        "ime": "Miodrag Linta",
+        "url": "http://www.otvoreniparlament.rs/politicari/miodrag-linta/"
+      },
+      {
+        "ime": "Miodrag Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/miodrag-nikolic/"
+      },
+      {
+        "ime": "Mirjana Andrić",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirjana-andric/"
+      },
+      {
+        "ime": "Mirjana Marjanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirjana-marjanovic/"
+      },
+      {
+        "ime": "Mirjana Đoković",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirjana-dokovic/"
+      },
+      {
+        "ime": "Mirko Krlić",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirko-krlic/"
+      },
+      {
+        "ime": "Mladen Lukić",
+        "url": "http://www.otvoreniparlament.rs/politicari/mladen-lukic/"
+      },
+      {
+        "ime": "Momir Stojanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/momir-stojanovic/"
+      },
+      {
+        "ime": "Mujo Muković",
+        "url": "http://www.otvoreniparlament.rs/politicari/mujo-mukovic/"
+      },
+      {
+        "ime": "Nadica Nikolić-Tanasijević",
+        "url": "http://www.otvoreniparlament.rs/politicari/nadica-nikolic-tanasijevic/"
+      },
+      {
+        "ime": "Nebojša Berić",
+        "url": "http://www.otvoreniparlament.rs/politicari/nebojsa-beric/"
+      },
+      {
+        "ime": "Nebojša Petrović",
+        "url": "http://www.otvoreniparlament.rs/politicari/nebojsa-petrovic/"
+      },
+      {
+        "ime": "Nebojša Tatomir",
+        "url": "http://www.otvoreniparlament.rs/politicari/nebojsa-tatomir/"
+      },
+      {
+        "ime": "Nenad Mitrović",
+        "url": "http://www.otvoreniparlament.rs/politicari/nenad-mitrovic/"
+      },
+      {
+        "ime": "Nenad Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/nenad-nikolic/"
+      },
+      {
+        "ime": "Nevenka Milošević",
+        "url": "http://www.otvoreniparlament.rs/politicari/nevenka-milosevic/"
+      },
+      {
+        "ime": "Nikola Jolović",
+        "url": "http://www.otvoreniparlament.rs/politicari/nikola-jolovic/"
+      },
+      {
+        "ime": "Ninoslav Girić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ninoslav-giric/"
+      },
+      {
+        "ime": "Obrad Isailović",
+        "url": "http://www.otvoreniparlament.rs/politicari/obrad-isailovic/"
+      },
+      {
+        "ime": "Olivera Pauljeskić",
+        "url": "http://www.otvoreniparlament.rs/politicari/olivera-pauljeskic/"
+      },
+      {
+        "ime": "Olivera Pešić",
+        "url": "http://www.otvoreniparlament.rs/politicari/olivera-pesic/"
+      },
+      {
+        "ime": "Predrag Mijatović",
+        "url": "http://www.otvoreniparlament.rs/politicari/predrag-mijatovic/"
+      },
+      {
+        "ime": "Radmilo Kostić",
+        "url": "http://www.otvoreniparlament.rs/politicari/radmilo-kostic/"
+      },
+      {
+        "ime": "Radoslav Jović",
+        "url": "http://www.otvoreniparlament.rs/politicari/radoslav-jovic/"
+      },
+      {
+        "ime": "Sanja Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/sanja-nikolic/"
+      },
+      {
+        "ime": "Saša Maksimović",
+        "url": "http://www.otvoreniparlament.rs/politicari/sasa-maksimovic/"
+      },
+      {
+        "ime": "Saša Mirković",
+        "url": "http://www.otvoreniparlament.rs/politicari/sasa-mirkovic/"
+      },
+      {
+        "ime": "Slobodan Gvozdenović",
+        "url": "http://www.otvoreniparlament.rs/politicari/slobodan-gvozdenovic/"
+      },
+      {
+        "ime": "Slobodan Perić",
+        "url": "http://www.otvoreniparlament.rs/politicari/slobodan-peric/"
+      },
+      {
+        "ime": "Sonja Vlahović",
+        "url": "http://www.otvoreniparlament.rs/politicari/sonja-vlahovic/"
+      },
+      {
+        "ime": "Suzana Šarac",
+        "url": "http://www.otvoreniparlament.rs/politicari/suzana-sarac/"
+      },
+      {
+        "ime": "Svetislav Vukmirica",
+        "url": "http://www.otvoreniparlament.rs/politicari/svetislav-vukmirica/"
+      },
+      {
+        "ime": "Tanja Tomašević Damnjanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/tanja-tomasevic-damnjanovic/"
+      },
+      {
+        "ime": "Velibor Stojković",
+        "url": "http://www.otvoreniparlament.rs/politicari/velibor-stojkovic/"
+      },
+      {
+        "ime": "Velinka Tošić",
+        "url": "http://www.otvoreniparlament.rs/politicari/velinka-tosic/"
+      },
+      {
+        "ime": "Veroljub Arsić",
+        "url": "http://www.otvoreniparlament.rs/politicari/veroljub-arsic/"
+      },
+      {
+        "ime": "Veroljub Matić",
+        "url": "http://www.otvoreniparlament.rs/politicari/veroljub-matic/"
+      },
+      {
+        "ime": "Vesna Marković",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-markovic/"
+      },
+      {
+        "ime": "Vesna Rakonjac",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-rakonjac/"
+      },
+      {
+        "ime": "Vesna Simić",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-simic/"
+      },
+      {
+        "ime": "Violeta Lutovac",
+        "url": "http://www.otvoreniparlament.rs/politicari/violeta-lutovac/"
+      },
+      {
+        "ime": "Vladan Milošević",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladan-milosevic/"
+      },
+      {
+        "ime": "Vladica Dimitrov",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladica-dimitrov/"
+      },
+      {
+        "ime": "Vladimir Orlić",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladimir-orlic/"
+      },
+      {
+        "ime": "Vladimir Petković",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladimir-petkovic/"
+      },
+      {
+        "ime": "Vladimir Đukanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladimir-dukanovic/"
+      },
+      {
+        "ime": "Vlado Babić",
+        "url": "http://www.otvoreniparlament.rs/politicari/vlado-babic/"
+      },
+      {
+        "ime": "Vučeta Tošković",
+        "url": "http://www.otvoreniparlament.rs/politicari/vuceta-toskovic/"
+      },
+      {
+        "ime": "Žarko Bogatinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/zarko-bogatinovic/"
+      },
+      {
+        "ime": "Žarko Mićin",
+        "url": "http://www.otvoreniparlament.rs/politicari/zarko-micin-2/"
+      },
+      {
+        "ime": "Željko Sušec",
+        "url": "http://www.otvoreniparlament.rs/politicari/zeljko-susec/"
+      },
+      {
+        "ime": "Živan Đurišić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zivan-durisic/"
+      },
+      {
+        "ime": "Zoran Antić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-antic/"
+      },
+      {
+        "ime": "Zoran Babić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-babic/"
+      },
+      {
+        "ime": "Zoran Bojanić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-bojanic/"
+      },
+      {
+        "ime": "Zoran Jozić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-jozic/"
+      },
+      {
+        "ime": "Zoran Milekić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-milekic/"
+      },
+      {
+        "ime": "Zoran Pralica",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-pralica/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Socijalistička partija Srbije",
+    "poslanici": [
+      {
+        "ime": "Branko Ružić",
+        "url": "http://www.otvoreniparlament.rs/politicari/branko-ruzic/"
+      },
+      {
+        "ime": "Dejan Radenković",
+        "url": "http://www.otvoreniparlament.rs/politicari/dejan-radenkovic/"
+      },
+      {
+        "ime": "Dijana Vukomanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dijana-vukomanovic/"
+      },
+      {
+        "ime": "Dušan Bajatović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusan-bajatovic/"
+      },
+      {
+        "ime": "Gordana Topić",
+        "url": "http://www.otvoreniparlament.rs/politicari/gordana-topic/"
+      },
+      {
+        "ime": "Ivana Dinić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivana-dinic/"
+      },
+      {
+        "ime": "Marjana Maraš",
+        "url": "http://www.otvoreniparlament.rs/politicari/marjana-maras/"
+      },
+      {
+        "ime": "Milan Latković",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-latkovic-2/"
+      },
+      {
+        "ime": "Miletić Mihajlović",
+        "url": "http://www.otvoreniparlament.rs/politicari/miletic-mihajlovic/"
+      },
+      {
+        "ime": "Milisav Petronijević",
+        "url": "http://www.otvoreniparlament.rs/politicari/milisav-petronijevic/"
+      },
+      {
+        "ime": "Milutin Mrkonjić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milutin-mrkonjic/"
+      },
+      {
+        "ime": "Mirjana Dragaš",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirjana-dragas/"
+      },
+      {
+        "ime": "Nenad Milosavljević",
+        "url": "http://www.otvoreniparlament.rs/politicari/nenad-milosavljevic/"
+      },
+      {
+        "ime": "Neđo Jovanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/nedja-jovanovic/"
+      },
+      {
+        "ime": "Novica Tončev",
+        "url": "http://www.otvoreniparlament.rs/politicari/novica-toncev/"
+      },
+      {
+        "ime": "Siniša Maksimović",
+        "url": "http://www.otvoreniparlament.rs/politicari/sinisa-maksimovic/"
+      },
+      {
+        "ime": "Slavica Đukić-Dejanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/slavica-djukic-dejanovic/"
+      },
+      {
+        "ime": "Srđan Dragojević",
+        "url": "http://www.otvoreniparlament.rs/politicari/srdan-dragojevic/"
+      },
+      {
+        "ime": "Stefana Miladinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/stefana-miladinovic/"
+      },
+      {
+        "ime": "Suzana Spasojević",
+        "url": "http://www.otvoreniparlament.rs/politicari/suzana-spasojevic/"
+      },
+      {
+        "ime": "Vanja Vukić",
+        "url": "http://www.otvoreniparlament.rs/politicari/vanja-vukic/"
+      },
+      {
+        "ime": "Žarko Obradović",
+        "url": "http://www.otvoreniparlament.rs/politicari/zarko-obradovic/"
+      },
+      {
+        "ime": "Zvonimir Stević",
+        "url": "http://www.otvoreniparlament.rs/politicari/zvonimir-stevic/"
+      },
+      {
+        "ime": "Đorđe Čabarkapa",
+        "url": "http://www.otvoreniparlament.rs/politicari/dorde-cabarkapa/"
+      },
+      {
+        "ime": "Đorđe Milićević",
+        "url": "http://www.otvoreniparlament.rs/politicari/djordje-milicevic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Demokratska stranka",
+    "poslanici": [
+      {
+        "ime": "Aida Ćorović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aida-corovic/"
+      },
+      {
+        "ime": "Aleksandra Jerkov",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandra-jerkov/"
+      },
+      {
+        "ime": "Balša Božović",
+        "url": "http://www.otvoreniparlament.rs/politicari/balsa-bozovic/"
+      },
+      {
+        "ime": "Borislav Stefanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/borislav-stefanovic/"
+      },
+      {
+        "ime": "Dejan Nikolić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dejan-nikolic/"
+      },
+      {
+        "ime": "Dragan Šutanovac",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-sutanovac/"
+      },
+      {
+        "ime": "Dragoljub Mićunović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragoljub-micunovic/"
+      },
+      {
+        "ime": "Dušan Milisavljević",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusan-milisavljevic/"
+      },
+      {
+        "ime": "Goran Ćirić",
+        "url": "http://www.otvoreniparlament.rs/politicari/goran-ciric/"
+      },
+      {
+        "ime": "Gordana Čomić",
+        "url": "http://www.otvoreniparlament.rs/politicari/gordana-comic/"
+      },
+      {
+        "ime": "Ivan Jovanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivan-jovanovic/"
+      },
+      {
+        "ime": "Jovan Marković",
+        "url": "http://www.otvoreniparlament.rs/politicari/jovan-markovic/"
+      },
+      {
+        "ime": "Jovana Jovanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/jovana-jovanovic/"
+      },
+      {
+        "ime": "Nataša Vučković",
+        "url": "http://www.otvoreniparlament.rs/politicari/natasa-vuckovic/"
+      },
+      {
+        "ime": "Vesna Marjanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-marjanovic/"
+      },
+      {
+        "ime": "Vesna Martinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-martinovic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Partija ujedinjenih penzionera Srbije",
+    "poslanici": [
+      {
+        "ime": "Borisav Kovačević",
+        "url": "http://www.otvoreniparlament.rs/politicari/borisav-kovacevic-2/"
+      },
+      {
+        "ime": "Grozdana Banac",
+        "url": "http://www.otvoreniparlament.rs/politicari/grozdana-banac/"
+      },
+      {
+        "ime": "Jelisaveta Veljković",
+        "url": "http://www.otvoreniparlament.rs/politicari/jelisaveta-veljkovic/"
+      },
+      {
+        "ime": "Konstantin Arsenović",
+        "url": "http://www.otvoreniparlament.rs/politicari/konstantin-arsenovic/"
+      },
+      {
+        "ime": "Milan Korać",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-korac/"
+      },
+      {
+        "ime": "Milan Krkobabić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-krkobabic/"
+      },
+      {
+        "ime": "Milena Ćorilić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milena-corilic/"
+      },
+      {
+        "ime": "Milorad Stošić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milorad-stosic/"
+      },
+      {
+        "ime": "Mira Petrović",
+        "url": "http://www.otvoreniparlament.rs/politicari/mira-petrovic/"
+      },
+      {
+        "ime": "Miroljub Stanković",
+        "url": "http://www.otvoreniparlament.rs/politicari/miroljub-stankovic/"
+      },
+      {
+        "ime": "Momo Čolaković",
+        "url": "http://www.otvoreniparlament.rs/politicari/momo-colakovic/"
+      },
+      {
+        "ime": "Vera Paunović",
+        "url": "http://www.otvoreniparlament.rs/politicari/vera-paunovic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Socijaldemokratska stranka, Zajedno za Srbiju, Zeleni Srbije",
+    "poslanici": [
+      {
+        "ime": "Aleksandar Senić",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-senic/"
+      },
+      {
+        "ime": "Biljana Hasanović-Korać",
+        "url": "http://www.otvoreniparlament.rs/politicari/biljana-hasanovic-korac/"
+      },
+      {
+        "ime": "Blagoje Bradić",
+        "url": "http://www.otvoreniparlament.rs/politicari/blagoje-bradic/"
+      },
+      {
+        "ime": "Branka Karavidić",
+        "url": "http://www.otvoreniparlament.rs/politicari/branka-karavidic/"
+      },
+      {
+        "ime": "Dušan Petrović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dusan-petrovic/"
+      },
+      {
+        "ime": "Goran Bogdanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/goran-bogdanovic/"
+      },
+      {
+        "ime": "Ivan Karić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivan-karic/"
+      },
+      {
+        "ime": "Janko Veselinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/janko-veselinovic/"
+      },
+      {
+        "ime": "Marko Đurišić",
+        "url": "http://www.otvoreniparlament.rs/politicari/marko-djurisic/"
+      },
+      {
+        "ime": "Ninoslav Stojadinović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ninoslav-stojadinovic/"
+      },
+      {
+        "ime": "Slobodan Homen",
+        "url": "http://www.otvoreniparlament.rs/politicari/slobodan-homen/"
+      },
+      {
+        "ime": "Snežana Malović",
+        "url": "http://www.otvoreniparlament.rs/politicari/snezana-malovic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Socijaldemokratska partija Srbije",
+    "poslanici": [
+      {
+        "ime": "Branka Bošnjak",
+        "url": "http://www.otvoreniparlament.rs/politicari/branka-bosnjak/"
+      },
+      {
+        "ime": "Branko Đurović",
+        "url": "http://www.otvoreniparlament.rs/politicari/branko-durovic/"
+      },
+      {
+        "ime": "Ivan Bauer",
+        "url": "http://www.otvoreniparlament.rs/politicari/ivan-bauer/"
+      },
+      {
+        "ime": "Ljiljana Nestorović",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljiljana-nestorovic/"
+      },
+      {
+        "ime": "Meho Omerović",
+        "url": "http://www.otvoreniparlament.rs/politicari/meho-omerovic/"
+      },
+      {
+        "ime": "Milena Bićanin",
+        "url": "http://www.otvoreniparlament.rs/politicari/milena-bicanin/"
+      },
+      {
+        "ime": "Milorad Mijatović",
+        "url": "http://www.otvoreniparlament.rs/politicari/milorad-mijatovic/"
+      },
+      {
+        "ime": "Muamer Bačevac",
+        "url": "http://www.otvoreniparlament.rs/politicari/muamer-bacevac/"
+      },
+      {
+        "ime": "Vesna Besarović",
+        "url": "http://www.otvoreniparlament.rs/politicari/vesna-besarovic/"
+      },
+      {
+        "ime": "Vladimir Marinković",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladimir-marinkovic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Jedinstvena Srbija",
+    "poslanici": [
+      {
+        "ime": "Dragan Marković",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-markovic-palma-2/"
+      },
+      {
+        "ime": "Marija Jevđić",
+        "url": "http://www.otvoreniparlament.rs/politicari/marija-jevdic-2/"
+      },
+      {
+        "ime": "Nevena Stojanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/nevena-stojanovic/"
+      },
+      {
+        "ime": "Petar Petrović",
+        "url": "http://www.otvoreniparlament.rs/politicari/petar-petrovic/"
+      },
+      {
+        "ime": "Srđan Kružević",
+        "url": "http://www.otvoreniparlament.rs/politicari/srdan-kruzevic/"
+      },
+      {
+        "ime": "Vojislav Vujić",
+        "url": "http://www.otvoreniparlament.rs/politicari/vojislav-vujic-2/"
+      },
+      {
+        "ime": "Đorđe Kosanić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dorde-kosanic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Liga socijaldemokrata Vojvodine",
+    "poslanici": [
+      {
+        "ime": "Bojan Kostreš",
+        "url": "http://www.otvoreniparlament.rs/politicari/bojan-kostres/"
+      },
+      {
+        "ime": "Dejan Čapo",
+        "url": "http://www.otvoreniparlament.rs/politicari/dejan-capo/"
+      },
+      {
+        "ime": "Nada Lazić",
+        "url": "http://www.otvoreniparlament.rs/politicari/nada-lazic/"
+      },
+      {
+        "ime": "Nenad Čanak",
+        "url": "http://www.otvoreniparlament.rs/politicari/nenad-canak/"
+      },
+      {
+        "ime": "Olena Papuga",
+        "url": "http://www.otvoreniparlament.rs/politicari/olena-papuga/"
+      },
+      {
+        "ime": "Đorđe Stojšić",
+        "url": "http://www.otvoreniparlament.rs/politicari/dorde-stojsic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Nova Srbija",
+    "poslanici": [
+      {
+        "ime": "Dragan Jovanović",
+        "url": "http://www.otvoreniparlament.rs/politicari/dragan-jovanovic/"
+      },
+      {
+        "ime": "Dubravka Filipovski",
+        "url": "http://www.otvoreniparlament.rs/politicari/dubravka-filipovski/"
+      },
+      {
+        "ime": "Miroslav Markićević",
+        "url": "http://www.otvoreniparlament.rs/politicari/miroslav-markicevic/"
+      },
+      {
+        "ime": "Mladen Grujić",
+        "url": "http://www.otvoreniparlament.rs/politicari/mladen-grujic/"
+      },
+      {
+        "ime": "Velimir Stanojević",
+        "url": "http://www.otvoreniparlament.rs/politicari/velimir-stanojevic/"
+      },
+      {
+        "ime": "Zlata Đerić",
+        "url": "http://www.otvoreniparlament.rs/politicari/zlata-djeric/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Savez vojvođanskih Mađara",
+    "poslanici": [
+      {
+        "ime": "Anamarija Viček",
+        "url": "http://www.otvoreniparlament.rs/politicari/anamarija-vicek/"
+      },
+      {
+        "ime": "Arpad Fremond",
+        "url": "http://www.otvoreniparlament.rs/politicari/arpad-fremond/"
+      },
+      {
+        "ime": "Balint Pastor",
+        "url": "http://www.otvoreniparlament.rs/politicari/balint-pastor/"
+      },
+      {
+        "ime": "Elvira Kovač",
+        "url": "http://www.otvoreniparlament.rs/politicari/elvira-kovac/"
+      },
+      {
+        "ime": "Laslo Varga",
+        "url": "http://www.otvoreniparlament.rs/politicari/laslo-varga/"
+      },
+      {
+        "ime": "Zoltan Pek",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoltan-pek/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Srpski pokret obnove - Demohrišćanska stranka Srbije",
+    "poslanici": [
+      {
+        "ime": "Aleksandar Čotrić",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-cotric/"
+      },
+      {
+        "ime": "Aleksandar Jugović",
+        "url": "http://www.otvoreniparlament.rs/politicari/aleksandar-jugovic/"
+      },
+      {
+        "ime": "Ljiljana Kosorić",
+        "url": "http://www.otvoreniparlament.rs/politicari/ljiljana-kosoric/"
+      },
+      {
+        "ime": "Mirko Čikiriz",
+        "url": "http://www.otvoreniparlament.rs/politicari/mirko-cikiriz/"
+      },
+      {
+        "ime": "Olgica Batić",
+        "url": "http://www.otvoreniparlament.rs/politicari/olgica-batic/"
+      },
+      {
+        "ime": "Žika Gojković",
+        "url": "http://www.otvoreniparlament.rs/politicari/zika-gojkovic/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "SDA Sandžaka – PDD",
+    "poslanici": [
+      {
+        "ime": "Enis Imamović",
+        "url": "http://www.otvoreniparlament.rs/politicari/enis-imamovic/"
+      },
+      {
+        "ime": "Riza Halimi",
+        "url": "http://www.otvoreniparlament.rs/politicari/riza-halimi/"
+      },
+      {
+        "ime": "Sabina Dazdarević",
+        "url": "http://www.otvoreniparlament.rs/politicari/sabina-dazdarevic/"
+      },
+      {
+        "ime": "Šaip Kamberi",
+        "url": "http://www.otvoreniparlament.rs/politicari/saip-kamberi/"
+      },
+      {
+        "ime": "Sulejman Ugljanin",
+        "url": "http://www.otvoreniparlament.rs/politicari/sulejman-ugljanin/"
+      }
+    ]
+  },
+  {
+    "saziv": "Aktuelni",
+    "grupa": "Samostalni \"poslanici\"",
+    "poslanici": [
+      {
+        "ime": "Milan Petrić",
+        "url": "http://www.otvoreniparlament.rs/politicari/milan-petric/"
+      },
+      {
+        "ime": "Vladimir Pavićević",
+        "url": "http://www.otvoreniparlament.rs/politicari/vladimir-pavicevic/"
+      },
+      {
+        "ime": "Zoran Živković",
+        "url": "http://www.otvoreniparlament.rs/politicari/zoran-zivkovic/"
+      }
+    ]
+  }
+]
+}
